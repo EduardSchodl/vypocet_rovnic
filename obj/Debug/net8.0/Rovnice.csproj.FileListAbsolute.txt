@@ -1,0 +1,14 @@
+C:\Users\Eduda\Desktop\IDT\Rovnice\bin\Debug\net8.0\Rovnice.exe
+C:\Users\Eduda\Desktop\IDT\Rovnice\bin\Debug\net8.0\Rovnice.deps.json
+C:\Users\Eduda\Desktop\IDT\Rovnice\bin\Debug\net8.0\Rovnice.runtimeconfig.json
+C:\Users\Eduda\Desktop\IDT\Rovnice\bin\Debug\net8.0\Rovnice.dll
+C:\Users\Eduda\Desktop\IDT\Rovnice\bin\Debug\net8.0\Rovnice.pdb
+C:\Users\Eduda\Desktop\IDT\Rovnice\obj\Debug\net8.0\Rovnice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduda\Desktop\IDT\Rovnice\obj\Debug\net8.0\Rovnice.AssemblyInfoInputs.cache
+C:\Users\Eduda\Desktop\IDT\Rovnice\obj\Debug\net8.0\Rovnice.AssemblyInfo.cs
+C:\Users\Eduda\Desktop\IDT\Rovnice\obj\Debug\net8.0\Rovnice.csproj.CoreCompileInputs.cache
+C:\Users\Eduda\Desktop\IDT\Rovnice\obj\Debug\net8.0\Rovnice.dll
+C:\Users\Eduda\Desktop\IDT\Rovnice\obj\Debug\net8.0\refint\Rovnice.dll
+C:\Users\Eduda\Desktop\IDT\Rovnice\obj\Debug\net8.0\Rovnice.pdb
+C:\Users\Eduda\Desktop\IDT\Rovnice\obj\Debug\net8.0\Rovnice.genruntimeconfig.cache
+C:\Users\Eduda\Desktop\IDT\Rovnice\obj\Debug\net8.0\ref\Rovnice.dll
